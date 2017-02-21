@@ -1,1 +1,1 @@
-*.css linguist-language=Java
+/public/css/*.css linguist-language=Java
